@@ -1,3 +1,10 @@
-font {
+.font {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+
+.other {
+
+    font-style: italic;
+    color: gray;
 }
